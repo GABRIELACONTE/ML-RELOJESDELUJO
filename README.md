@@ -32,7 +32,7 @@ ML <Relojes de Lujo>/
 
 
 Cómo Usar Este Repositorio, clona 
-git clone https://github.com/tu_usuario/ML-relojes-lujo.git
+git clone https://github.com/GABRIELA-CONTE/ML-relojes-lujo.git
 
 Instala las dependencias necesarias:
 pip install -r requirements.txt
