@@ -1,6 +1,6 @@
-ANALISIS DEL PRECIO DE LOS RELOJES DE LUJO
+ANALISI DEL PRECIO DE LOS RELOJES DE LUJO
 
-Dataset de  kaggle 
+dataset de  kaggle 
 Este proyecto aplica técnicas de Machine Learning para analizar y predecir el precio de relojes de lujo. A través de modelos de regresión y clustering,
 se busca identificar los factores clave que influyen en el precio y segmentar los relojes en distintos grupos según sus características.
 
@@ -32,7 +32,7 @@ ML <Relojes de Lujo>/
 
 
 Cómo Usar Este Repositorio, clona 
-git clone https://github.com/GABRIELACONTE/ML-RELOJESDELUJO.git
+git clone https://github.com/GABRIELA-CONTE/ML-relojes-lujo.git
 
 Instala las dependencias necesarias:
 pip install -r requirements.txt
