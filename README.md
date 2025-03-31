@@ -1,43 +1,47 @@
-ANALISIS DEL PRECIO DE LOS RELOJES DE LUJO
+LUXURY WATCH PRICE ANALYSIS
 
-Dataset de  kaggle 
-Este proyecto aplica técnicas de Machine Learning para analizar y predecir el precio de relojes de lujo. A través de modelos de regresión y clustering,
-se busca identificar los factores clave que influyen en el precio y segmentar los relojes en distintos grupos según sus características.
+Dataset from Kaggle
+This project applies Machine Learning techniques to analyze and predict the price of luxury watches. Through regression models and clustering, the goal is to identify key factors influencing the price and segment watches into different groups based on their characteristics.
 
+Watch Price Prediction: Identify the key factors that determine a watch's price and develop a Machine Learning model to predict it accurately.
 
-1 Predicción del Precio de los Relojes:
-Identificar los factores clave que determinan el precio de un reloj y desarrollar un modelo de Machine Learning que permita predecirlo con precisión.
+Luxury Watch Market Segmentation: Group watches into different profiles based on their characteristics to improve marketing strategies and product positioning.
 
-2 Segmentación del Mercado de Relojes de Lujo:
-Agrupar relojes en distintos perfiles según sus características para mejorar la estrategia de marketing y el posicionamiento de productos.
+Business Applications of the Analysis:
 
-3 Aplicaciones del Análisis en la Empresa:
-Optimización de precios: Determinar qué características impactan más en el precio y ajustar estrategias de pricing.
-Segmentación de productos: Identificar categorías de relojes según sus atributos.
-Estrategia de marketing: Diseñar campañas personalizadas para cada segmento de clientes.
+Price Optimization: Determine which features have the most impact on price and adjust pricing strategies accordingly.
 
-Enfoque Analítico
-Parte 1: Predicción de Precios (Regresión) → Modelos de Machine Learning para estimar el precio de los relojes.
-Parte 2: Segmentación de Relojes (Clustering) → Aplicación de algoritmos de clustering para definir perfiles de mercado.
+Product Segmentation: Identify watch categories based on their attributes.
 
-ML <Relojes de Lujo>/
-│── README.md           # Descripción y guía del proyecto
+Marketing Strategy: Design personalized campaigns for each customer segment.
+
+Analytical Approach
+
+Part 1: Price Prediction (Regression) → Machine Learning models to estimate watch prices.
+
+Part 2: Watch Segmentation (Clustering) → Application of clustering algorithms to define market profiles.
+
+Project Structure
+ML <Luxury Watches>/
+│── README.md → Project description and guide
 │── src/
-│   ├── sample/        # Datos de muestra utilizados en el proyecto
-│   ├── img/           # Imágenes utilizadas en el análisis
-│   ├── notebooks/     # Notebooks de desarrollo y análisis
-│   ├── results/       # Notebook final con los resultados
-│   ├── models/        # Modelos entrenados guardados
-│   ├── utils/         # Funciones auxiliares utilizadas
+│ ├── sample/ → Sample data used in the project
+│ ├── img/ → Images used in the analysis
+│ ├── notebooks/ → Development and analysis notebooks
+│ ├── results/ → Final notebook with results
+│ ├── models/ → Saved trained models
+│ ├── utils/ → Auxiliary functions used
 
-
-Cómo Usar Este Repositorio, clona 
+How to Use This Repository
+Clone the repository:
 git clone https://github.com/GABRIELACONTE/ML-RELOJESDELUJO.git
 
-Instala las dependencias necesarias:
+Install the necessary dependencies:
 pip install -r requirements.txt
 
-Explora los notebooks en src/notebooks/ para entender el análisis.
-Prueba el modelo cargando los archivos guardados en src/models/.
+Explore the notebooks in src/notebooks/ to understand the analysis.
+Test the model by loading the saved files in src/models/.
 
-Autor: Gabriela Conte Marcos
+Author: Gabriela Conte Marcos
+
+
